@@ -19,18 +19,18 @@ An AI-powered task tracking assistant that lets you manage tasks using natural l
 ## 🚀 GETTING STARTED
 
 1. Clone the repo:
-   git clone https://github.com/202-MohammadAreeb/task-tracker-mcp-agent.git
-   cd task-tracker-mcp-agent
+   - git clone https://github.com/202-MohammadAreeb/task-tracker-mcp-agent.git
+   - cd task-tracker-mcp-agent
 
 2. Install dependencies:
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 3. Set up your .env file:
-   GOOGLE_API_KEY=your_api_key_here
+   - GOOGLE_API_KEY=your_api_key_here
 
 4. Run the app:
-   cd task_ui
-   uvicorn main:app --reload
+   - cd task_ui
+   - uvicorn main:app --reload
 
 ────────────────────────────────────────────
 
