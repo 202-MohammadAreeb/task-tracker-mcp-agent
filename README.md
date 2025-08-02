@@ -1,11 +1,10 @@
-
-🧠 TASK TRACKER MCP AGENT
+# 🧠 TASK TRACKER MCP AGENT
 
 An AI-powered task tracking assistant that lets you manage tasks using natural language — built with LangChain MCP, FastAPI, and Google Gemini.
 
 ────────────────────────────────────────────
 
-✨ FEATURES
+## ✨ FEATURES
 
 - ✅ Add new tasks with title, due date, and assignee
 - ✅ Get tasks by user, status (done/pending), or overdue
@@ -17,7 +16,7 @@ An AI-powered task tracking assistant that lets you manage tasks using natural l
 
 ────────────────────────────────────────────
 
-🚀 GETTING STARTED
+## 🚀 GETTING STARTED
 
 1. Clone the repo:
    git clone https://github.com/202-MohammadAreeb/task-tracker-mcp-agent.git
@@ -35,7 +34,7 @@ An AI-powered task tracking assistant that lets you manage tasks using natural l
 
 ────────────────────────────────────────────
 
-💬 EXAMPLE PROMPTS
+## 💬 EXAMPLE PROMPTS
 
 - "Add task 'Submit report' for Alice due 2025-08-05"
 - "What tasks are overdue?"
@@ -44,7 +43,7 @@ An AI-powered task tracking assistant that lets you manage tasks using natural l
 
 ────────────────────────────────────────────
 
-🛠️ BUILT WITH
+## 🛠️ BUILT WITH
 
 - LangChain MCP + LangGraph
 - FastAPI + Jinja2
@@ -53,7 +52,7 @@ An AI-powered task tracking assistant that lets you manage tasks using natural l
 
 ────────────────────────────────────────────
 
-📬 CONTACT
+## 📬 CONTACT
 
 - areeb.syed2225@gmail.com
 - https://www.linkedin.com/in/mohammad-areeb-8050a6222/
